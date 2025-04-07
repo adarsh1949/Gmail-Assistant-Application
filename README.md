@@ -25,7 +25,6 @@ Before setting up the project, ensure you have:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/chaithanya-web/Gmail-Assistant-Application
 cd AI-Email-Assistant  
 2️⃣ Create a Virtual Environment
 bash
